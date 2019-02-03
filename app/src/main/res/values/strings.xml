@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pagination Tutorial</string>
+
+    <string name="url">http://dummy.restapiexample.com/api/v1/employees</string>
+</resources>
